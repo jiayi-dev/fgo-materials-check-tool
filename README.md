@@ -1,3 +1,3 @@
 # loadingImgFromJSON
 
-![Loading img from JSON](pic/pic.png){:height="100px" width="400px"}
+![Loading img from JSON](pic/pic.png | zoom=50%)
