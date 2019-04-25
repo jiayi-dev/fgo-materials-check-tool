@@ -1,3 +1,3 @@
 # loadingImgFromJSON
 
-![Loading img from JSON](pic/pic.png =100x100)
+![Loading img from JSON](pic/pic.png){:height="100px" width="400px"}
