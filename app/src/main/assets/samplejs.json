@@ -1,0 +1,48 @@
+{
+  "Bronze":[
+    {
+      "itemName": "Unlucky Bone",
+      "itemType": "Bronze",
+      "itemImg": "Unlucky_bone.jpg"
+    },
+    {
+      "itemName": "Void's Refuse",
+      "itemType": "Bronze",
+      "itemImg": "Voids_refuse.jpg"
+    },
+    {
+      "itemName": "Hero's Proff",
+      "itemType": "Bronze",
+      "itemImg": "Heros_proof.jpg"
+    },
+    {
+      "itemName": "Dragon Fang",
+      "itemType": "Bronze",
+      "itemImg": "Dragon_fang.jpg"
+    },
+    {
+      "itemName": "Chains of the Fool",
+      "itemType": "Bronze",
+      "itemImg": "Chains_of_The_Fool.jpg"
+    },
+    {
+      "itemName": "Stinger of Certain Death",
+      "itemType": "Bronze",
+      "itemImg": "Stinger_of_Certain_Death.jpg"
+    },
+    {
+      "itemName": "Magical Cerebrospinal Fluid",
+      "itemType": "Bronze",
+      "itemImg": "Magical_Cerebrospinal_Fluid_icon.jpg"
+    },
+    {
+      "itemName": "Night-Weeping Iron Stake",
+      "itemType": "Bronze",
+      "itemImg": "Iron_Stake.jpg"
+    },
+    {
+      "itemName": "Stimulus Gunpowder",
+      "itemType": "Bronze",
+      "itemImg": "Stimulus_Gunpowder.jpg"
+    }]
+}
